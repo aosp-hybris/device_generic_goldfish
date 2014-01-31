@@ -93,6 +93,6 @@ LOCAL_SRC_FILES := JpegStub.cpp
 
 LOCAL_MODULE := camera.goldfish.jpeg
 
-include $(BUILD_SHARED_LIBRARY)
+#include $(BUILD_SHARED_LIBRARY)
 
 endif # !PDK
